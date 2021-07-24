@@ -227,6 +227,9 @@
             }
 
             if(correc == 4){
+                
+                use.sort(function(a, b){return a - b});
+
                 for(i=0;i<use_count;i++){
                     console.log(use[i]);
                     document.getElementById("Solution").innerHTML += use[i];
