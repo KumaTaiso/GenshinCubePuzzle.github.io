@@ -1,1 +1,1 @@
-# ProjectA
+Genshin Cube Puzzle
